@@ -1,0 +1,7 @@
+{
+  "name": "MisRecetasIonic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
